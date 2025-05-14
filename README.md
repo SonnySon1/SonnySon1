@@ -20,12 +20,12 @@ MySQL
 
 ## 📊 GitHub Stats
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td style="padding: 0; border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
     </td>
-    <td>
+    <td style="padding: 0; border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&layout=compact" />
     </td>
   </tr>
