@@ -20,7 +20,7 @@ MySQL
 
 ## 📊 GitHub Stats
 
-![SonnySon1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonnySon1&show_icons=true&theme=radical)
+![SonnySon1's Stats](https://github-readme-stats.vercel.app/api?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
