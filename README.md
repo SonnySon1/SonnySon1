@@ -1,35 +1,33 @@
-# 👋 Hi, I'm Sonny!
+# 👋 Hi, I'm Sonny
 
-Welcome to my GitHub profile! I'm a passionate web developer with experience in creating clean, efficient, and user-friendly web applications. I enjoy building solutions that solve real problems and enhance digital experiences.
+Welcome to my GitHub profile!  
+I'm a passionate web developer focused on building clean, efficient, and user-friendly web applications. I love creating digital solutions that solve real-world problems and deliver great user experiences.
+
+---
 
 ## 🛠️ Tech Stack
 
-Here are the technologies I work with:
+**Languages:**  
+HTML, CSS, PHP, JavaScript
 
-- **Languages:** HTML, CSS, PHP, JavaScript
-- **Frameworks & Libraries:**
-  - Laravel (versions 8, 9, 10, 11)
-  - Bootstrap (versions 3, 4, 5)
-  - Tailwind CSS
-  - jQuery
-- **Database:** MySQL
+**Frameworks & Libraries:**  
+Laravel (v8–v11), Bootstrap (v3–v5), Tailwind CSS, jQuery
 
-## 🚀 Featured Projects
+**Database:**  
+MySQL
 
-- **[aplikasi-pengaduan-masyarakat](https://github.com/SonnySon1/aplikasi-pengaduan-masyarakat)**  
-  A web-based complaint submission system for the public to report issues and receive responses from authorities.
+---
 
-- **[imgExplore-FE](https://github.com/SonnySon1/imgExplore-BE)**  
-  A modern web platform for showcasing and exploring digital artworks online. Built with a clean UI to make it easy for users to display and share their creative projects.
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![SonnySon1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonnySon1&show_icons=true&theme=radical)
 
+---
+
 ## 📫 Contact Me
 
-I'm open to collaborating on interesting projects or freelance opportunities. Feel free to reach out:
+I'm open to collaboration or freelance opportunities. Feel free to reach out via:
 
-- Email: [sonny@example.com](mailto:sonysudrajat94@gmail.com)  
+**Email:** [sonysudrajat94@gmail.com](mailto:sonysudrajat94@gmail.com)
 
-Thanks for visiting my profile!
+Thanks for visiting!
