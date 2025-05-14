@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sonny
+# 👋 Hi, I'm Soni
 
 Welcome to my GitHub profile!  
 I'm a passionate web developer focused on building clean, efficient, and user-friendly web applications. I love creating digital solutions that solve real-world problems and deliver great user experiences.
