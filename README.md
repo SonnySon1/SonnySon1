@@ -20,7 +20,7 @@ MySQL
 
 ## 📊 GitHub Stats
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td style="padding: 0; border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
