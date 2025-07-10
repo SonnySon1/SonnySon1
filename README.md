@@ -8,10 +8,10 @@ I'm a passionate web developer focused on building clean, efficient, and user-fr
 ## 🛠️ Tech Stack
 
 **Languages:**  
-HTML, CSS, PHP, JavaScript
+HTML, CSS, PHP, Dart, JavaScript
 
 **Frameworks & Libraries:**  
-Laravel (v8–v11), Bootstrap (v3–v5), Tailwind CSS, jQuery
+Laravel, Flutter,Bootstrap, Tailwind CSS, jQuery
 
 **Database:**  
 MySQL
