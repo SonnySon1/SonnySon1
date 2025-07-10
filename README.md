@@ -11,7 +11,7 @@ I'm a passionate web developer focused on building clean, efficient, and user-fr
 HTML, CSS, PHP, Dart, JavaScript
 
 **Frameworks & Libraries:**  
-Laravel, Flutter,Bootstrap, Tailwind CSS, jQuery
+Laravel, Flutter, Bootstrap, Tailwind CSS, jQuery
 
 **Database:**  
 MySQL
