@@ -40,3 +40,6 @@ I'm open to collaboration or freelance opportunities. Feel free to reach out via
 **Email:** [sonysudrajat94@gmail.com](mailto:sonysudrajat94@gmail.com)
 
 Thanks for visiting!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SonnySon1.SonnySon1&"  />
+</div>
