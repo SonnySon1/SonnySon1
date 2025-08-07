@@ -20,16 +20,18 @@ MySQL
 
 ## 📊 GitHub Stats
 
-<table cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <td style="padding: 0; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td style="padding: 0; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border: none;">
+    <tr>
+      <td style="padding: 0; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&count_private=true" />
+      </td>
+      <td style="padding: 0; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonnySon1&theme=prussian&show_icons=true&hide_border=true&layout=compact" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -40,6 +42,3 @@ I'm open to collaboration or freelance opportunities. Feel free to reach out via
 **Email:** [sonysudrajat94@gmail.com](mailto:sonysudrajat94@gmail.com)
 
 Thanks for visiting!
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SonnySon1.SonnySon1&"  />
-</div>
